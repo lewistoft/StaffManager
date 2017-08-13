@@ -9,3 +9,4 @@
 /StaffManager/StaffManager.UWP/obj
 /StaffManager/StaffManager.UWP/StaffManager.UWP.csproj.user
 *.user
+/.vs
