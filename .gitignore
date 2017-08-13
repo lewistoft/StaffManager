@@ -1,0 +1,11 @@
+/packages
+/StaffManager/StaffManager/bin
+/StaffManager/StaffManager/obj
+/StaffManager/StaffManager.Android/bin
+/StaffManager/StaffManager.Android/obj
+/StaffManager/StaffManager.iOS/bin
+/StaffManager/StaffManager.iOS/obj
+/StaffManager/StaffManager.UWP/bin
+/StaffManager/StaffManager.UWP/obj
+/StaffManager/StaffManager.UWP/StaffManager.UWP.csproj.user
+*.user

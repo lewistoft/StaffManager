@@ -1,0 +1,12 @@
+C:\Code\StaffManager\StaffManagerTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Code\StaffManager\StaffManagerTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Code\StaffManager\StaffManagerTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Code\StaffManager\StaffManagerTests\bin\Debug\netcoreapp1.1\StaffManagerTests.deps.json
+C:\Code\StaffManager\StaffManagerTests\bin\Debug\netcoreapp1.1\StaffManagerTests.runtimeconfig.json
+C:\Code\StaffManager\StaffManagerTests\bin\Debug\netcoreapp1.1\StaffManagerTests.runtimeconfig.dev.json
+C:\Code\StaffManager\StaffManagerTests\bin\Debug\netcoreapp1.1\StaffManagerTests.dll
+C:\Code\StaffManager\StaffManagerTests\bin\Debug\netcoreapp1.1\StaffManagerTests.pdb
+C:\Code\StaffManager\StaffManagerTests\obj\Debug\netcoreapp1.1\StaffManagerTests.csprojResolveAssemblyReference.cache
+C:\Code\StaffManager\StaffManagerTests\obj\Debug\netcoreapp1.1\StaffManagerTests.AssemblyInfo.cs
+C:\Code\StaffManager\StaffManagerTests\obj\Debug\netcoreapp1.1\StaffManagerTests.dll
+C:\Code\StaffManager\StaffManagerTests\obj\Debug\netcoreapp1.1\StaffManagerTests.pdb
